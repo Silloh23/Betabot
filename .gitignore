@@ -1,0 +1,13 @@
+data/climbing/images/
+data/climbing/labels/
+
+models/weights/
+models/runs/
+
+.venv/
+__pycache__/
+*.pyc
+*.pt
+
+.DS_Store
+*.log

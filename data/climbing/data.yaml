@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['holds']
+
+# Dataset: https://universe.roboflow.com/holliss-workspace/climbing-holds-madmp/dataset/dataset
+# License: MIT
